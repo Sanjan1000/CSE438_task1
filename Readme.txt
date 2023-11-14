@@ -5,13 +5,13 @@ Public link to the slide (Anyone on the internet can view without login):
 https://docs.google.com/presentation/.....
 
 Paper title:
-NLP using ANN
+Social media data analytics to improve supply chain management in food industries
 
 Link to the paper:
-https://ieeexplore......
+https://sci-hub.se/https://doi.org/10.1016/j.tre.2017.05.008
 
 Group Number:
-0
+3
 
 Individual Submitter:
 19201068 M.A.B.Siddique Sanjan
